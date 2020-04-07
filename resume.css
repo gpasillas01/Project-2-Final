@@ -5,7 +5,7 @@ padding: 0;
 overflow: hidden;
 background-color: rgba(0,0,0,0.3);
 float; right;
-padding-right: 25px;
+padding-right: 10px;
 display: inline;
 }
 
@@ -19,7 +19,7 @@ li a {
 display: block;
 color: #ffffff;
 text-align: center;
-padding: 14px 16px;
+padding: 10px 10px;
 text-decoration: none;
 }
 
