@@ -45,11 +45,10 @@ img {
 
 div.a {
   text-align: center;
+ text-decoration: overline;
 }
 
 div.b {
   text-align: center;
 }
-title {
- text-decoration: overline;
-}
+
