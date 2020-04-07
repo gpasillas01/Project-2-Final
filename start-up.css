@@ -6,3 +6,7 @@ li {
  body {
   color: #0099cc;
 }
+img {
+  opacity: 0.5;
+   float: right;
+}
