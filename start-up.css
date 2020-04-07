@@ -54,4 +54,9 @@ h2{
   text-align: center;
   border-style: dotted dashed solid double;
 }
+h1{
+  text-align:center;
+border-style: double;
+  border-color:#1a0011
+}
   
