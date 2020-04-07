@@ -7,6 +7,7 @@
 h2 {
 color:#000066;
  background-color:#2F4F4F;
+ text-decoration: underline;
 }
 
 ul {
@@ -48,4 +49,7 @@ div.a {
 
 div.b {
   text-align: center;
+}
+title {
+ text-decoration: overline;
 }
