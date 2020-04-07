@@ -5,21 +5,21 @@
   text-align: center;
 }
 
-#resume list li {
+#resume li {
   border: 1px solid #99ffcc;
   padding: 30px;
 }
 
-#resume list h3{ 
+#resume h3{ 
   background-color: #99ffcc;
 	
   }  
   
-#resume list body {
+#resume body {
   color: #3399ff;
 }
 
-#resume list h2 {
+#resume h2 {
   color: #99ff66;
 }
 
