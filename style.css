@@ -1,68 +1,21 @@
-#myHeader {
+#resume {
   background-color: #000000;
-  color: #99ffcc;
-  padding: 40px;
-  text-align: center;
+  
 }
-
-#resume li {
+.resume li {
   border: 1px solid #99ffcc;
   padding: 30px;
 }
 
-#resume h3{ 
+.resume h3{ 
   background-color: #99ffcc;
 	
   }  
   
-#resume body {
+.resume body {
   color: #3399ff;
 }
 
-#resume h2 {
+.resume h2 {
   color: #99ff66;
-}
-
-li {
-  border: 1px solid #99ffcc;
-  padding: 30px;
-}
-
- body {
-  color: #0099cc;
-}
-
-body {
-  color: #3399ff;
-}
-
-h2 {
-color:#000066;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 200px;
-  background-color: #f1f1f1;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 200px;
-  background-color: #f1f1f1;
-}
-li a {
-  display: block;
-  color: #000;
-  padding: 8px 16px;
-  text-decoration: none;
-}
-
-li a:hover {
-  background-color: #555;
-  color: white;
 }
