@@ -6,12 +6,13 @@ overflow: hidden;
 background-color: rgba(0,0,0,0.3);
 float; right;
 padding-right: 25px;
+display: inline;
 }
 
 
 li.a{
 float: right;
-display: inline;
+
 }
 
 li a {
