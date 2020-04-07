@@ -6,7 +6,21 @@ li {
  body {
   color: #0099cc;
 }
+
 img {
   opacity: 0.5;
    float: right;
+}
+
+div {
+  border: 3px solid #4CAF50;
+  padding: 5px;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.img2 {
+  float: right;
 }
