@@ -52,6 +52,6 @@ div {
 }
 h2{
   text-align: center;
-   text-decoration: overline;
+  border-style: dotted dashed solid double;
 }
   
