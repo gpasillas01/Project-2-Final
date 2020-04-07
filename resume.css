@@ -13,14 +13,13 @@ h3{
 h2 {
   color: #99ff66;
 }
-img {
-  border-radius: 50%;
-}
+
 img {
   border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 150px;
+  border-radius: 10px;
+  padding: 500px;
+  width: 750px;
+  
 }
 
 img:hover {
