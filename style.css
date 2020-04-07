@@ -1,18 +1,25 @@
-.index li {
+#myHeader {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+
+#resume list li {
   border: 1px solid #99ffcc;
   padding: 30px;
 }
 
-.index h3{ 
+#resume list h3{ 
   background-color: #99ffcc;
 	
   }  
   
-.index body {
+#resume list body {
   color: #3399ff;
 }
 
-.index h2 {
+#resume list h2 {
   color: #99ff66;
 }
 
