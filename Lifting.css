@@ -1,7 +1,7 @@
  body {
   color: #3399ff;
    text-align: center;
-  background-color:#2F4F4F;
+  
 }
 
 h2 {
@@ -44,10 +44,8 @@ img {
 
 div.a {
   text-align: center;
- background-color:#2F4F4F;
 }
 
 div.b {
   text-align: center;
- background-color:#2F4F4F;
 }
