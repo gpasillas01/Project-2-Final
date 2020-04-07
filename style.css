@@ -1,18 +1,18 @@
-li {
+.indexli {
   border: 1px solid #99ffcc;
   padding: 30px;
 }
 
-h3{ 
+.index h3{ 
   background-color: #99ffcc;
 	
   }  
   
- body {
+.index body {
   color: #3399ff;
 }
 
-h2 {
+.index h2 {
   color: #99ff66;
 }
 
