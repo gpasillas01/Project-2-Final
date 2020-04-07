@@ -30,5 +30,12 @@ li a {
 
 li a:hover {
   background-color: #555;
-  color: white;
+  color: #F0F0F0;
 }
+img {
+  border-radius: 50%;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
