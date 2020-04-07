@@ -1,2 +1,28 @@
+#resume{
+  background-color: #e0ebeb;
+  
+}
+.resume li{
+  border: 1px solid #99ffcc;
+  padding: 30px;
+}
+
+#resume li{
+  border: 1px solid #99ffcc;
+  padding: 30px;
+}
+
+.resume h3{ 
+  background-color: #99ffcc;
+	
+  }  
+  
+.resume body{
+  color: #3399ff;
+}
+
+#resume h2{
+  color: #99ff66;
+}
 
   
