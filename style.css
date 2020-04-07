@@ -2,7 +2,7 @@
   background-color: #ffe6e6;
   
 }
-.resume li {
+.resume li{
   border: 1px solid #99ffcc;
   padding: 30px;
 }
@@ -12,10 +12,10 @@
 	
   }  
   
-.resume body {
+.resume body{
   color: #3399ff;
 }
 
-.resume h2 {
+.resume h2{
   color: #99ff66;
 }
