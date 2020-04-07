@@ -20,6 +20,8 @@ img {
   border-radius: 4px;
   padding:20px;
   width: 50;
+height: 500px;
+  width: 400px;
 }
 
 img:hover {
