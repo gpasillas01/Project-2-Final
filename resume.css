@@ -1,13 +1,4 @@
 
-ul{
-   list-style-type: circle;
-}
-
-li {
-  border: 1px solid #99ffcc;
-  padding: 30px;
-  background-color:#ffffff;
-}
 h3{ 
   background-color: #99ffcc;
 	
@@ -43,4 +34,5 @@ img {
 img:hover {
   box-shadow: 0 0 8px 4px rgba(0, 140, 186, 0.5);
 }
+
 
