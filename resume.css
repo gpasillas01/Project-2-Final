@@ -24,7 +24,7 @@ float: right;
 li a {
 display: block;
 color: #ffffff;
-text-align: center;
+display: inline;
 padding: 10px 10px;
 text-decoration: none;
 }
