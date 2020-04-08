@@ -1,44 +1,4 @@
 
-nav li {
-  display:inline-block;
-	width: 15%;
-  height: 20px;
-  background-color: #ff80aa;
-
-	ul.a {
-list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: rgba(0,0,0,0.3);
-  float; right;
-  padding-right: 10px;
-  display: inline;
-}
-
-
-li.a{
-float: right;
-
-}
-
-li a {
-display: block;
-color: #ffffff;
-display: inline;
-padding: 10px 10px;
-text-decoration: none;
-}
-
-li a:hover {
-background-color: #000000;
-color: #ffffff;
-}
-
-nav{
-width: 960px;
-margin: 0 auto;
-}
 ul{
    list-style-type: circle;
 }
